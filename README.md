@@ -1,2 +1,2 @@
-# ionic_16Mayo
-Del curso de Ionic los jueves
+# ionic_10mayo
+recupera_01
